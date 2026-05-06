@@ -13,4 +13,5 @@ This is a repo for testing pulling and staging, committing, pulling, pushing, an
 
 We should add file structure later.
 
-## New header
+## Rendered output here
+
